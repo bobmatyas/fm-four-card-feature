@@ -1,5 +1,13 @@
 # Frontend Mentor - Four card feature section
 
+I built this to practice w/CSS Grid.
+
+View it in the browser:
+
+[https://bobmatyas.github.io/fm-four-card-feature/](https://bobmatyas.github.io/fm-four-card-feature/)
+
+## Preview
+
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
